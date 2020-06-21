@@ -16,7 +16,7 @@ waiting to be released, or want in the future.
       since it is back in stock.
 - [Love Hulten](http://www.lovehulten.com/): Tech + wood crafting meet retro
     gaming. Interesting that in some instances it is just a raspberry pi inside
-    and has other failings like mono audio.[^1] Perhaps not a problem with 
+    and has other failings like mono audio.[^2] Perhaps not a problem with 
     more recent creations.
 - [Analogue Pocket](https://www.analogue.co/pocket/): Handheld device for
     playing old game cartridges. Awesome hardware design. However can only take
@@ -30,4 +30,4 @@ waiting to be released, or want in the future.
     does.
 
 [^1]: https://twitter.com/jessfraz/status/1253117708683448321
-[^1]: https://www.youtube.com/watch?v=u1DcxuKIDCc
+[^2]: https://www.youtube.com/watch?v=u1DcxuKIDCc
