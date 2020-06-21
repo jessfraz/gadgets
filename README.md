@@ -4,8 +4,8 @@ A repo to keep track of interesting gadgets and toys that I find or someone
 tells me about. These are things that I might own already, desperately am
 waiting to be released, or want in the future.
 
-- [Teenage Engineering](https://teenage.engineering): Toys for audio. Great
-    looking hardware design.
+- [Teenage Engineering](https://teenage.engineering): Toys for audio, like
+  wireless synthesizers. Great looking hardware design.
     - I got the [OP-Z](https://teenage.engineering/store/op-z/) and the 
       [PO-137 rick and morty](https://teenage.engineering/store/po-137/), as 
       well as the modules for the OP-Z: 
