@@ -13,7 +13,9 @@ waiting to be released, or want in the future.
       and
       [rumble](https://teenage.engineering/products/op-z/modules/rumble)[^1].
     - I just ordered the [impossible I-1](https://teenage.engineering/designs/I-1)
-      since it is back in stock.
+      since it is back in stock. If they are out of the film you can order it 
+      from [Polaroid](https://us.polaroid.com/collections/film-for-polaroid-600-cameras).
+      Just make sure it is type 600.
 - [Love Hulten](http://www.lovehulten.com/): Tech + wood crafting meet retro
     gaming. Interesting that in some instances it is just a raspberry pi inside
     and has other failings like mono audio.[^2] Perhaps not a problem with 
