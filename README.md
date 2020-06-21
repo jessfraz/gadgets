@@ -6,6 +6,12 @@ waiting to be released, or want in the future.
 
 - [Teenage Engineering](https://teenage.engineering): Toys for audio. Great
     looking hardware design.
+    - I got the [OP-Z](https://teenage.engineering/store/op-z/) and the 
+      [PO-137 rick and morty](https://teenage.engineering/store/po-137/), as 
+      well as the modules for the OP-Z: 
+      [oplab](https://teenage.engineering/products/op-z/modules/oplab)
+      and
+      [rumble](https://teenage.engineering/products/op-z/modules/rumble)[^1].
 - [Love Hulten](http://www.lovehulten.com/): Tech + wood crafting meet retro
     gaming. Interesting that in some instances it is just a raspberry pi inside
     and has other failings like mono audio.[^1] Perhaps not a problem with 
@@ -21,4 +27,5 @@ waiting to be released, or want in the future.
     marketing doesn't show off their hardware like the Analogue marketing 
     does.
 
+[^1]: https://twitter.com/jessfraz/status/1253117708683448321
 [^1]: https://www.youtube.com/watch?v=u1DcxuKIDCc
