@@ -27,7 +27,7 @@ waiting to be released, or want in the future.
     Teenage Engineering. Amazing hardware design featuring a hand crank.
 - [8bitdo](https://www.8bitdo.com/): Retro game controllers made wireless.
 - [Polymega](https://www.polymega.com/): Swiss army knife of retro gaming
-    consoles. Skeptical since it is not an FPGA, could also just be thier
+    consoles. Skeptical since it is not an FPGA, could also just be their
     marketing doesn't show off their hardware like the Analogue marketing 
     does.
 
