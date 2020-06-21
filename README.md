@@ -12,6 +12,8 @@ waiting to be released, or want in the future.
       [oplab](https://teenage.engineering/products/op-z/modules/oplab)
       and
       [rumble](https://teenage.engineering/products/op-z/modules/rumble)[^1].
+    - I just ordered the [impossible I-1](https://teenage.engineering/designs/I-1)
+      since it is back in stock.
 - [Love Hulten](http://www.lovehulten.com/): Tech + wood crafting meet retro
     gaming. Interesting that in some instances it is just a raspberry pi inside
     and has other failings like mono audio.[^1] Perhaps not a problem with 
