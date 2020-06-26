@@ -30,6 +30,8 @@ waiting to be released, or want in the future.
     consoles. Skeptical since it is not an FPGA, could also just be their
     marketing doesn't show off their hardware like the Analogue marketing 
     does.
+- [Freewrite Traveler](https://astrohaus.com/traveler/): Distraction free writing tool.
+    Supports cloud syncing and 4 week battery life.
 
 [^1]: https://twitter.com/jessfraz/status/1253117708683448321
 [^2]: https://www.youtube.com/watch?v=u1DcxuKIDCc
