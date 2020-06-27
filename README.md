@@ -30,6 +30,17 @@ waiting to be released, or want in the future.
     consoles. Skeptical since it is not an FPGA, could also just be their
     marketing doesn't show off their hardware like the Analogue marketing 
     does.
+- [RED Camera](https://www.red.com/): Cinema quality, 8K, cameras. You can
+    attach any lens to these. The quality is really great and some folks swear
+    by them[^3]. They have some great documentation around their sensors as
+    well[^4].
+- [Probe Lens](https://www.venuslens.net/product/laowa-24mm-f-14-2x-macro-probe/):
+    Along with the RED camera brain from above, this lens allows for some really
+    fun shots[^5]. Would be fun for hardware PCB boards or up close on a product.
+    It has a light built in since it needs a lot of light for a great picture.
 
 [^1]: https://twitter.com/jessfraz/status/1253117708683448321
 [^2]: https://www.youtube.com/watch?v=u1DcxuKIDCc
+[^3]: https://www.youtube.com/watch?v=QKyul7puruQ
+[^4]: https://www.red.com/red-101
+[^5]: https://www.youtube.com/watch?v=jFZ0MFYup-o
