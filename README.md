@@ -12,8 +12,9 @@ waiting to be released, or want in the future.
       [oplab](https://teenage.engineering/products/op-z/modules/oplab)
       and
       [rumble](https://teenage.engineering/products/op-z/modules/rumble)[^1].
-    - I just ordered the [impossible I-1](https://teenage.engineering/designs/I-1)
-      since it is back in stock. If they are out of the film you can order it 
+    - I got the [impossible I-1](https://teenage.engineering/designs/I-1) 
+      old-school polaroid camera[^6]. 
+      If they are out of the film you can order it 
       from [Polaroid](https://us.polaroid.com/collections/film-for-polaroid-600-cameras).
       Just make sure it is type 600.
 - [Love Hulten](http://www.lovehulten.com/): Tech + wood crafting meet retro
@@ -44,3 +45,4 @@ waiting to be released, or want in the future.
 [^3]: https://www.youtube.com/watch?v=QKyul7puruQ
 [^4]: https://www.red.com/red-101
 [^5]: https://www.youtube.com/watch?v=jFZ0MFYup-o
+[^6]: https://twitter.com/jessfraz/status/1278122911488860160
