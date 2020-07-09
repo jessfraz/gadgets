@@ -39,6 +39,9 @@ waiting to be released, or want in the future.
     Along with the RED camera brain from above, this lens allows for some really
     fun shots[^5]. Would be fun for hardware PCB boards or up close on a product.
     It has a light built in since it needs a lot of light for a great picture.
+- [Sonos Turntable](https://www.sonos.com/en-us/shop/pro-ject-debut-carbon-esprit-turntable-walnut.html):
+    The ability to listen to a record in a modern way is very compelling. The
+    design of these is also beautiful.
 
 [^1]: https://twitter.com/jessfraz/status/1253117708683448321
 [^2]: https://www.youtube.com/watch?v=u1DcxuKIDCc
