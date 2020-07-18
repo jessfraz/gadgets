@@ -42,7 +42,12 @@ waiting to be released, or want in the future.
 - [Sonos Turntable](https://www.sonos.com/en-us/shop/pro-ject-debut-carbon-esprit-turntable-walnut.html):
     The ability to listen to a record in a modern way is very compelling. The
     design of these is also beautiful.
-- [Markforged](https://markforged.com): 3D print metal or carbon fiber.
+- [Markforged](https://markforged.com): 3D print metal or carbon fiber. Parts require
+    supports on the parts though to the additive manufacturing process used.
+- [Desktop Metal](https://www.desktopmetal.com/): 3D print metal. Parts require
+    supports due to the additive manufacturing process used.
+- [Hello Robot](https://hello-robot.com/): Programmable robot arm.
+- [Spot](https://www.bostondynamics.com/spot): Robot dog.
 
 [^1]: https://twitter.com/jessfraz/status/1253117708683448321
 [^2]: https://www.youtube.com/watch?v=u1DcxuKIDCc
