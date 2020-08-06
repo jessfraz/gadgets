@@ -49,7 +49,10 @@ waiting to be released, or want in the future.
 - [Hello Robot](https://hello-robot.com/): Programmable robot arm.
 - [Spot](https://www.bostondynamics.com/spot): Robot dog.
 - [Genesis Orrery](https://www.orrerydesign.com/the-genesis-orrery.html): Model
-    of the planets.
+    of the planets. Mechanically engineered in a visually stunning orrery.
+- [Designed by Apple in
+    California](https://www.ebay.com/itm/Designed-by-Apple-in-California-by-Jony-Ive-and-Andrew-Zuckerman-LARGE/203030810756?epid=233062216&hash=item2f45945084:g:2MgAAOSwHXxe8-Mj):
+    Not a gadget, but a book. Beautifully designed and no longer in print.
 
 [^1]: https://twitter.com/jessfraz/status/1253117708683448321
 [^2]: https://www.youtube.com/watch?v=u1DcxuKIDCc
