@@ -48,6 +48,8 @@ waiting to be released, or want in the future.
     supports due to the additive manufacturing process used.
 - [Hello Robot](https://hello-robot.com/): Programmable robot arm.
 - [Spot](https://www.bostondynamics.com/spot): Robot dog.
+- [Genesis Orrery](https://www.orrerydesign.com/the-genesis-orrery.html): Model
+    of the planets.
 
 [^1]: https://twitter.com/jessfraz/status/1253117708683448321
 [^2]: https://www.youtube.com/watch?v=u1DcxuKIDCc
