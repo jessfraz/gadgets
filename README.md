@@ -53,6 +53,10 @@ waiting to be released, or want in the future.
 - [Designed by Apple in
     California](https://www.ebay.com/itm/Designed-by-Apple-in-California-by-Jony-Ive-and-Andrew-Zuckerman-LARGE/203030810756?epid=233062216&hash=item2f45945084:g:2MgAAOSwHXxe8-Mj):
     Not a gadget, but a book. Beautifully designed and no longer in print.
+- [Canon EOS
+    R5](https://www.usa.canon.com/internet/portal/us/home/explore/product-showcases/cameras-and-lenses/eos-r5):
+    DSLR camera, 8K RAW video at 30fps, 4K video at 60fps, has a 45 megapixel
+    sensor, 1053 autofocus zones, 120fps viewfinder
 
 [^1]: https://twitter.com/jessfraz/status/1253117708683448321
 [^2]: https://www.youtube.com/watch?v=u1DcxuKIDCc
