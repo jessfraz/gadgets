@@ -55,7 +55,7 @@ waiting to be released, or want in the future.
     Not a gadget, but a book. Beautifully designed and no longer in print.
 - [Canon EOS
     R5](https://www.usa.canon.com/internet/portal/us/home/explore/product-showcases/cameras-and-lenses/eos-r5):
-    DSLR camera, 8K RAW video at 30fps, 4K video at 60fps, has a 45 megapixel
+    Mirrorless camera, 8K RAW video at 30fps, 4K video at 60fps, has a 45 megapixel
     sensor, 1053 autofocus zones, 120fps viewfinder
 
 [^1]: https://twitter.com/jessfraz/status/1253117708683448321
